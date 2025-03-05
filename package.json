@@ -1,5 +1,5 @@
 {
-  "name": "CMSC 100 Exer 4",
+  "name": "CMSC 100 Exer 5",
   "type": "module",
   "dependencies": {
     "express": "^4.21.2",
