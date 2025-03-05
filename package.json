@@ -1,0 +1,9 @@
+{
+  "name": "CMSC 100 Exer 4",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.21.2",
+    "fs": "0.0.1-security",
+    "needle": "^3.3.1"
+  }
+}
